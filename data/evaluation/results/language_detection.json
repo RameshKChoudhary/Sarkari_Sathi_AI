@@ -1,0 +1,24 @@
+{
+ "accuracy": 0.9946236559139785,
+ "per_label_accuracy": {
+  "en": 1.0,
+  "hi": 1.0,
+  "mr": 0.9827586206896551,
+  "mr_roman": 1.0
+ },
+ "confusion": {
+  "en": {
+   "en": 58
+  },
+  "hi": {
+   "hi": 58
+  },
+  "mr": {
+   "mr": 57,
+   "hi": 1
+  },
+  "mr_roman": {
+   "mr_roman": 12
+  }
+ }
+}

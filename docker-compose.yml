@@ -1,0 +1,18 @@
+# docker compose up --build   ->  UI http://localhost:8080 , API docs http://localhost:8000/docs
+# Secrets come from .env (copy .env.example). Nothing is baked into the images.
+services:
+  api:
+    build: { context: ., dockerfile: backend/Dockerfile, args: { WITH_ML: "0" } }
+    env_file: [{ path: .env, required: false }]
+    ports: ["8000:8000"]
+    volumes: [hf_cache:/root/.cache/huggingface]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request as u;u.urlopen('http://localhost:8000/api/health')"]
+      interval: 15s
+      retries: 5
+  web:
+    build: { context: ., dockerfile: frontend/Dockerfile }
+    ports: ["8080:80"]
+    depends_on: [api]
+volumes:
+  hf_cache:

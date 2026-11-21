@@ -1,0 +1,10 @@
+# Render blueprint. Set GROQ_API_KEY in the dashboard (sync: false = never stored in git).
+services:
+  - type: web
+    name: sarkarisathi-ai
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - { key: PORT, value: "10000" }
+      - { key: LLM_PROVIDER, value: auto }
+      - { key: GROQ_API_KEY, sync: false }

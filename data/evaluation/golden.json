@@ -1,0 +1,4601 @@
+[
+ {
+  "id": "A01.en",
+  "group_id": "A01",
+  "language": "en",
+  "question": "What are the eligibility criteria for PM Kisan?",
+  "question_en": "What are the eligibility criteria for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "cultivable",
+    "कृषि योग्य",
+    "लागवडीयोग्य"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A01.hi",
+  "group_id": "A01",
+  "language": "hi",
+  "question": "पीएम किसान योजना के लिए कौन पात्र है?",
+  "question_en": "What are the eligibility criteria for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "cultivable",
+    "कृषि योग्य",
+    "लागवडीयोग्य"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A01.mr",
+  "group_id": "A01",
+  "language": "mr",
+  "question": "पीएम किसान योजनेसाठी कोण पात्र आहे?",
+  "question_en": "What are the eligibility criteria for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "cultivable",
+    "कृषि योग्य",
+    "लागवडीयोग्य"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A01.mr_roman",
+  "group_id": "A01",
+  "language": "mr_roman",
+  "question": "pm kisan yojanesathi kon patra ahe?",
+  "question_en": "What are the eligibility criteria for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "cultivable",
+    "कृषि योग्य",
+    "लागवडीयोग्य"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A02.en",
+  "group_id": "A02",
+  "language": "en",
+  "question": "How much money do farmers get every year under PM Kisan?",
+  "question_en": "How much money do farmers get every year under PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A02.hi",
+  "group_id": "A02",
+  "language": "hi",
+  "question": "पीएम किसान में किसानों को हर साल कितने रुपये मिलते हैं?",
+  "question_en": "How much money do farmers get every year under PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A02.mr",
+  "group_id": "A02",
+  "language": "mr",
+  "question": "पीएम किसान योजनेत शेतकऱ्यांना दरवर्षी किती रक्कम मिळते?",
+  "question_en": "How much money do farmers get every year under PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A03.en",
+  "group_id": "A03",
+  "language": "en",
+  "question": "In how many instalments is the PM Kisan amount paid?",
+  "question_en": "In how many instalments is the PM Kisan amount paid?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A03.hi",
+  "group_id": "A03",
+  "language": "hi",
+  "question": "पीएम किसान की राशि कितनी किस्तों में दी जाती है?",
+  "question_en": "In how many instalments is the PM Kisan amount paid?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A03.mr",
+  "group_id": "A03",
+  "language": "mr",
+  "question": "पीएम किसानची रक्कम किती हप्त्यांमध्ये दिली जाते?",
+  "question_en": "In how many instalments is the PM Kisan amount paid?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A04.en",
+  "group_id": "A04",
+  "language": "en",
+  "question": "Can an income tax payer get PM Kisan benefits?",
+  "question_en": "Can an income tax payer get PM Kisan benefits?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "income tax",
+    "आयकर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A04.hi",
+  "group_id": "A04",
+  "language": "hi",
+  "question": "क्या आयकर देने वाला व्यक्ति पीएम किसान का लाभ ले सकता है?",
+  "question_en": "Can an income tax payer get PM Kisan benefits?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "income tax",
+    "आयकर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A04.mr",
+  "group_id": "A04",
+  "language": "mr",
+  "question": "आयकर भरणारी व्यक्ती पीएम किसानचा लाभ घेऊ शकते का?",
+  "question_en": "Can an income tax payer get PM Kisan benefits?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "income tax",
+    "आयकर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A05.en",
+  "group_id": "A05",
+  "language": "en",
+  "question": "Which documents are required to register for PM Kisan?",
+  "question_en": "Which documents are required to register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A05.hi",
+  "group_id": "A05",
+  "language": "hi",
+  "question": "पीएम किसान में पंजीकरण के लिए कौन से दस्तावेज़ चाहिए?",
+  "question_en": "Which documents are required to register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A05.mr",
+  "group_id": "A05",
+  "language": "mr",
+  "question": "पीएम किसानसाठी नोंदणी करण्यास कोणती कागदपत्रे लागतात?",
+  "question_en": "Which documents are required to register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A06.en",
+  "group_id": "A06",
+  "language": "en",
+  "question": "How can a farmer register for PM Kisan?",
+  "question_en": "How can a farmer register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "farmers corner",
+    "फार्मर्स कॉर्नर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A06.hi",
+  "group_id": "A06",
+  "language": "hi",
+  "question": "किसान पीएम किसान में पंजीकरण कैसे कर सकता है?",
+  "question_en": "How can a farmer register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "farmers corner",
+    "फार्मर्स कॉर्नर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A06.mr",
+  "group_id": "A06",
+  "language": "mr",
+  "question": "शेतकरी पीएम किसानसाठी नोंदणी कशी करू शकतो?",
+  "question_en": "How can a farmer register for PM Kisan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pm_kisan",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "farmers corner",
+    "फार्मर्स कॉर्नर"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A07.en",
+  "group_id": "A07",
+  "language": "en",
+  "question": "How much health cover does Ayushman Bharat PM-JAY provide per family?",
+  "question_en": "How much health cover does Ayushman Bharat PM-JAY provide per family?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A07.hi",
+  "group_id": "A07",
+  "language": "hi",
+  "question": "आयुष्मान भारत पीएम-जेएवाई में प्रति परिवार कितना स्वास्थ्य कवर मिलता है?",
+  "question_en": "How much health cover does Ayushman Bharat PM-JAY provide per family?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A07.mr",
+  "group_id": "A07",
+  "language": "mr",
+  "question": "आयुष्मान भारत पीएम-जेएवाय मध्ये प्रति कुटुंब किती आरोग्य संरक्षण मिळते?",
+  "question_en": "How much health cover does Ayushman Bharat PM-JAY provide per family?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A08.en",
+  "group_id": "A08",
+  "language": "en",
+  "question": "Who is eligible for Ayushman Bharat?",
+  "question_en": "Who is eligible for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2011"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A08.hi",
+  "group_id": "A08",
+  "language": "hi",
+  "question": "आयुष्मान भारत के लिए कौन पात्र है?",
+  "question_en": "Who is eligible for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2011"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A08.mr",
+  "group_id": "A08",
+  "language": "mr",
+  "question": "आयुष्मान भारतसाठी कोण पात्र आहे?",
+  "question_en": "Who is eligible for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2011"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A09.en",
+  "group_id": "A09",
+  "language": "en",
+  "question": "How do I get an Ayushman card?",
+  "question_en": "How do I get an Ayushman card?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "ayushman mitra",
+    "आयुष्मान मित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A09.hi",
+  "group_id": "A09",
+  "language": "hi",
+  "question": "आयुष्मान कार्ड कैसे बनवाएं?",
+  "question_en": "How do I get an Ayushman card?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "ayushman mitra",
+    "आयुष्मान मित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A09.mr",
+  "group_id": "A09",
+  "language": "mr",
+  "question": "आयुष्मान कार्ड कसे मिळवायचे?",
+  "question_en": "How do I get an Ayushman card?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "ayushman mitra",
+    "आयुष्मान मित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A09.mr_roman",
+  "group_id": "A09",
+  "language": "mr_roman",
+  "question": "ayushman card kase milvayche?",
+  "question_en": "How do I get an Ayushman card?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "ayushman mitra",
+    "आयुष्मान मित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A10.en",
+  "group_id": "A10",
+  "language": "en",
+  "question": "What documents are used to verify a family for Ayushman Bharat?",
+  "question_en": "What documents are used to verify a family for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "ration",
+    "राशन",
+    "रेशन"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A10.hi",
+  "group_id": "A10",
+  "language": "hi",
+  "question": "आयुष्मान भारत में परिवार के सत्यापन के लिए कौन से दस्तावेज़ उपयोग होते हैं?",
+  "question_en": "What documents are used to verify a family for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "ration",
+    "राशन",
+    "रेशन"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A10.mr",
+  "group_id": "A10",
+  "language": "mr",
+  "question": "आयुष्मान भारतमध्ये कुटुंबाच्या पडताळणीसाठी कोणती कागदपत्रे वापरली जातात?",
+  "question_en": "What documents are used to verify a family for Ayushman Bharat?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmjay",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "ration",
+    "राशन",
+    "रेशन"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A11.en",
+  "group_id": "A11",
+  "language": "en",
+  "question": "Who can get the benefit of Ladki Bahin Yojana?",
+  "question_en": "Who can get the benefit of Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "21"
+   ],
+   [
+    "65"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A11.hi",
+  "group_id": "A11",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना का लाभ किसे मिल सकता है?",
+  "question_en": "Who can get the benefit of Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "21"
+   ],
+   [
+    "65"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A11.mr",
+  "group_id": "A11",
+  "language": "mr",
+  "question": "मला लाडकी बहीण योजनेचा लाभ मिळू शकतो का?",
+  "question_en": "Who can get the benefit of Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "21"
+   ],
+   [
+    "65"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A11.mr_roman",
+  "group_id": "A11",
+  "language": "mr_roman",
+  "question": "ladki bahin yojanecha labh milu shakto ka?",
+  "question_en": "Who can get the benefit of Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "21"
+   ],
+   [
+    "65"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A12.en",
+  "group_id": "A12",
+  "language": "en",
+  "question": "What is the family income limit for Ladki Bahin Yojana?",
+  "question_en": "What is the family income limit for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2.5"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A12.hi",
+  "group_id": "A12",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना के लिए पारिवारिक आय की सीमा क्या है?",
+  "question_en": "What is the family income limit for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2.5"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A12.mr",
+  "group_id": "A12",
+  "language": "mr",
+  "question": "लाडकी बहीण योजनेसाठी कुटुंबाच्या उत्पन्नाची मर्यादा किती आहे?",
+  "question_en": "What is the family income limit for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "2.5"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A13.en",
+  "group_id": "A13",
+  "language": "en",
+  "question": "How much money per month does Ladki Bahin Yojana give?",
+  "question_en": "How much money per month does Ladki Bahin Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1500"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A13.hi",
+  "group_id": "A13",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना में हर महीने कितने रुपये मिलते हैं?",
+  "question_en": "How much money per month does Ladki Bahin Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1500"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A13.mr",
+  "group_id": "A13",
+  "language": "mr",
+  "question": "लाडकी बहीण योजनेत दरमहा किती रुपये मिळतात?",
+  "question_en": "How much money per month does Ladki Bahin Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1500"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A13.mr_roman",
+  "group_id": "A13",
+  "language": "mr_roman",
+  "question": "ladki bahin yojanet darmahaa kiti paise milatat?",
+  "question_en": "How much money per month does Ladki Bahin Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1500"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A14.en",
+  "group_id": "A14",
+  "language": "en",
+  "question": "How do I apply for Ladki Bahin Yojana?",
+  "question_en": "How do I apply for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "nari shakti",
+    "नारी शक्ति",
+    "नारी शक्ती"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A14.hi",
+  "group_id": "A14",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना के लिए आवेदन कैसे करें?",
+  "question_en": "How do I apply for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "nari shakti",
+    "नारी शक्ति",
+    "नारी शक्ती"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A14.mr",
+  "group_id": "A14",
+  "language": "mr",
+  "question": "मला लाडकी बहीण योजनेसाठी अर्ज कसा करायचा?",
+  "question_en": "How do I apply for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "nari shakti",
+    "नारी शक्ति",
+    "नारी शक्ती"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A14.mr_roman",
+  "group_id": "A14",
+  "language": "mr_roman",
+  "question": "ladki bahin yojana sathi apply kasa karaycha?",
+  "question_en": "How do I apply for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "nari shakti",
+    "नारी शक्ति",
+    "नारी शक्ती"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A15.en",
+  "group_id": "A15",
+  "language": "en",
+  "question": "What documents are needed for Ladki Bahin Yojana?",
+  "question_en": "What documents are needed for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A15.hi",
+  "group_id": "A15",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना के लिए कौन से दस्तावेज़ चाहिए?",
+  "question_en": "What documents are needed for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A15.mr",
+  "group_id": "A15",
+  "language": "mr",
+  "question": "लाडकी बहीण योजनेसाठी कोणती कागदपत्रे लागतात?",
+  "question_en": "What documents are needed for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A15.mr_roman",
+  "group_id": "A15",
+  "language": "mr_roman",
+  "question": "ladki bahin yojanesathi konti kagadpatre lagtat?",
+  "question_en": "What documents are needed for Ladki Bahin Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ladki_bahin",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A16.en",
+  "group_id": "A16",
+  "language": "en",
+  "question": "Who is eligible for PMAY-G?",
+  "question_en": "Who is eligible for PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "gram sabha",
+    "ग्राम सभा",
+    "ग्रामसभा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A16.hi",
+  "group_id": "A16",
+  "language": "hi",
+  "question": "पीएमएवाई-जी के लिए कौन पात्र है?",
+  "question_en": "Who is eligible for PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "gram sabha",
+    "ग्राम सभा",
+    "ग्रामसभा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A16.mr",
+  "group_id": "A16",
+  "language": "mr",
+  "question": "पीएमएवाय-जी साठी कोण पात्र आहे?",
+  "question_en": "Who is eligible for PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "gram sabha",
+    "ग्राम सभा",
+    "ग्रामसभा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A17.en",
+  "group_id": "A17",
+  "language": "en",
+  "question": "How much assistance is given for building a house in plain areas under PMAY-G?",
+  "question_en": "How much assistance is given for building a house in plain areas under PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.2"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A17.hi",
+  "group_id": "A17",
+  "language": "hi",
+  "question": "पीएमएवाई-जी में मैदानी क्षेत्रों में घर बनाने के लिए कितनी सहायता मिलती है?",
+  "question_en": "How much assistance is given for building a house in plain areas under PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.2"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A17.mr",
+  "group_id": "A17",
+  "language": "mr",
+  "question": "पीएमएवाय-जी मध्ये सपाट प्रदेशात घर बांधण्यासाठी किती मदत मिळते?",
+  "question_en": "How much assistance is given for building a house in plain areas under PMAY-G?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.2"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A18.en",
+  "group_id": "A18",
+  "language": "en",
+  "question": "How many days of MGNREGA work do PMAY-G beneficiaries get?",
+  "question_en": "How many days of MGNREGA work do PMAY-G beneficiaries get?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "90"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A18.hi",
+  "group_id": "A18",
+  "language": "hi",
+  "question": "पीएमएवाई-जी लाभार्थियों को मनरेगा में कितने दिन का काम मिलता है?",
+  "question_en": "How many days of MGNREGA work do PMAY-G beneficiaries get?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "90"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A18.mr",
+  "group_id": "A18",
+  "language": "mr",
+  "question": "पीएमएवाय-जी लाभार्थ्यांना मनरेगा अंतर्गत किती दिवस काम मिळते?",
+  "question_en": "How many days of MGNREGA work do PMAY-G beneficiaries get?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "90"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A19.en",
+  "group_id": "A19",
+  "language": "en",
+  "question": "How can a household find out whether it is on the Awaas Plus list?",
+  "question_en": "How can a household find out whether it is on the Awaas Plus list?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "gram panchayat",
+    "ग्राम पंचायत",
+    "ग्रामपंचायत"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A19.hi",
+  "group_id": "A19",
+  "language": "hi",
+  "question": "परिवार कैसे जान सकता है कि उसका नाम आवास प्लस सूची में है?",
+  "question_en": "How can a household find out whether it is on the Awaas Plus list?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "gram panchayat",
+    "ग्राम पंचायत",
+    "ग्रामपंचायत"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A19.mr",
+  "group_id": "A19",
+  "language": "mr",
+  "question": "कुटुंबाचे नाव आवास प्लस यादीत आहे का हे कसे कळेल?",
+  "question_en": "How can a household find out whether it is on the Awaas Plus list?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "gram panchayat",
+    "ग्राम पंचायत",
+    "ग्रामपंचायत"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A20.en",
+  "group_id": "A20",
+  "language": "en",
+  "question": "What documents does a PMAY-G beneficiary need?",
+  "question_en": "What documents does a PMAY-G beneficiary need?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "job card",
+    "जॉब कार्ड"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A20.hi",
+  "group_id": "A20",
+  "language": "hi",
+  "question": "पीएमएवाई-जी लाभार्थी को कौन से दस्तावेज़ चाहिए?",
+  "question_en": "What documents does a PMAY-G beneficiary need?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "job card",
+    "जॉब कार्ड"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A20.mr",
+  "group_id": "A20",
+  "language": "mr",
+  "question": "पीएमएवाय-जी लाभार्थ्याला कोणती कागदपत्रे लागतात?",
+  "question_en": "What documents does a PMAY-G beneficiary need?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "job card",
+    "जॉब कार्ड"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A21.en",
+  "group_id": "A21",
+  "language": "en",
+  "question": "How much assistance does PMAY-G give in hilly areas?",
+  "question_en": "How much assistance does PMAY-G give in hilly areas?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.3"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A21.hi",
+  "group_id": "A21",
+  "language": "hi",
+  "question": "पीएमएवाई-जी में पहाड़ी क्षेत्रों में कितनी सहायता मिलती है?",
+  "question_en": "How much assistance does PMAY-G give in hilly areas?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.3"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A21.mr",
+  "group_id": "A21",
+  "language": "mr",
+  "question": "पीएमएवाय-जी मध्ये डोंगराळ प्रदेशात किती मदत मिळते?",
+  "question_en": "How much assistance does PMAY-G give in hilly areas?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmayg",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.3"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A22.en",
+  "group_id": "A22",
+  "language": "en",
+  "question": "Who is eligible for the Ujjwala Yojana?",
+  "question_en": "Who is eligible for the Ujjwala Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "lpg",
+    "एलपीजी"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A22.hi",
+  "group_id": "A22",
+  "language": "hi",
+  "question": "उज्ज्वला योजना के लिए कौन पात्र है?",
+  "question_en": "Who is eligible for the Ujjwala Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "lpg",
+    "एलपीजी"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A22.mr",
+  "group_id": "A22",
+  "language": "mr",
+  "question": "उज्ज्वला योजनेसाठी कोण पात्र आहे?",
+  "question_en": "Who is eligible for the Ujjwala Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "lpg",
+    "एलपीजी"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A22.mr_roman",
+  "group_id": "A22",
+  "language": "mr_roman",
+  "question": "ujjwala yojanesathi kon patra ahe?",
+  "question_en": "Who is eligible for the Ujjwala Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "lpg",
+    "एलपीजी"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A23.en",
+  "group_id": "A23",
+  "language": "en",
+  "question": "Is a security deposit needed for a new Ujjwala LPG connection?",
+  "question_en": "Is a security deposit needed for a new Ujjwala LPG connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "deposit",
+    "जमा",
+    "ठेव"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A23.hi",
+  "group_id": "A23",
+  "language": "hi",
+  "question": "क्या उज्ज्वला के नए एलपीजी कनेक्शन के लिए सुरक्षा जमा राशि देनी पड़ती है?",
+  "question_en": "Is a security deposit needed for a new Ujjwala LPG connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "deposit",
+    "जमा",
+    "ठेव"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A23.mr",
+  "group_id": "A23",
+  "language": "mr",
+  "question": "उज्ज्वलाच्या नवीन एलपीजी जोडणीसाठी सुरक्षा ठेव द्यावी लागते का?",
+  "question_en": "Is a security deposit needed for a new Ujjwala LPG connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "deposit",
+    "जमा",
+    "ठेव"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A24.en",
+  "group_id": "A24",
+  "language": "en",
+  "question": "What documents are required for an Ujjwala connection?",
+  "question_en": "What documents are required for an Ujjwala connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A24.hi",
+  "group_id": "A24",
+  "language": "hi",
+  "question": "उज्ज्वला कनेक्शन के लिए कौन से दस्तावेज़ चाहिए?",
+  "question_en": "What documents are required for an Ujjwala connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A24.mr",
+  "group_id": "A24",
+  "language": "mr",
+  "question": "उज्ज्वला जोडणीसाठी कोणती कागदपत्रे आवश्यक आहेत?",
+  "question_en": "What documents are required for an Ujjwala connection?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A25.en",
+  "group_id": "A25",
+  "language": "en",
+  "question": "Where can I submit the Ujjwala application form?",
+  "question_en": "Where can I submit the Ujjwala application form?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "distributor",
+    "वितरक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A25.hi",
+  "group_id": "A25",
+  "language": "hi",
+  "question": "उज्ज्वला आवेदन फॉर्म कहां जमा करें?",
+  "question_en": "Where can I submit the Ujjwala application form?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "distributor",
+    "वितरक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A25.mr",
+  "group_id": "A25",
+  "language": "mr",
+  "question": "उज्ज्वलाचा अर्ज कुठे जमा करायचा?",
+  "question_en": "Where can I submit the Ujjwala application form?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmuy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "distributor",
+    "वितरक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A26.en",
+  "group_id": "A26",
+  "language": "en",
+  "question": "What is the age limit for opening a Sukanya Samriddhi account?",
+  "question_en": "What is the age limit for opening a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A26.hi",
+  "group_id": "A26",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि खाता खोलने की आयु सीमा क्या है?",
+  "question_en": "What is the age limit for opening a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A26.mr",
+  "group_id": "A26",
+  "language": "mr",
+  "question": "सुकन्या समृद्धी खाते उघडण्यासाठी वयाची मर्यादा काय आहे?",
+  "question_en": "What is the age limit for opening a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A27.en",
+  "group_id": "A27",
+  "language": "en",
+  "question": "What is the maximum yearly deposit in Sukanya Samriddhi?",
+  "question_en": "What is the maximum yearly deposit in Sukanya Samriddhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.5 lakh",
+    "1.5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A27.hi",
+  "group_id": "A27",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि में एक वर्ष में अधिकतम कितनी जमा राशि हो सकती है?",
+  "question_en": "What is the maximum yearly deposit in Sukanya Samriddhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.5 lakh",
+    "1.5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A27.mr",
+  "group_id": "A27",
+  "language": "mr",
+  "question": "सुकन्या समृद्धीमध्ये एका वर्षात जास्तीत जास्त किती रक्कम जमा करता येते?",
+  "question_en": "What is the maximum yearly deposit in Sukanya Samriddhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.5 lakh",
+    "1.5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A27.mr_roman",
+  "group_id": "A27",
+  "language": "mr_roman",
+  "question": "sukanya samriddhi madhe varshala kamal kiti thev thevta yete?",
+  "question_en": "What is the maximum yearly deposit in Sukanya Samriddhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1.5 lakh",
+    "1.5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A28.en",
+  "group_id": "A28",
+  "language": "en",
+  "question": "After how many years does the Sukanya Samriddhi account mature?",
+  "question_en": "After how many years does the Sukanya Samriddhi account mature?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "21"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A28.hi",
+  "group_id": "A28",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि खाता कितने वर्षों बाद परिपक्व होता है?",
+  "question_en": "After how many years does the Sukanya Samriddhi account mature?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "21"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A28.mr",
+  "group_id": "A28",
+  "language": "mr",
+  "question": "सुकन्या समृद्धी खाते किती वर्षांनी परिपक्व होते?",
+  "question_en": "After how many years does the Sukanya Samriddhi account mature?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "21"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A29.en",
+  "group_id": "A29",
+  "language": "en",
+  "question": "What documents are needed to open a Sukanya Samriddhi account?",
+  "question_en": "What documents are needed to open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "birth certificate",
+    "जन्म प्रमाणपत्र",
+    "जन्म प्रमाण पत्र",
+    "जन्माचा दाखला",
+    "जन्म दाखला"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A29.hi",
+  "group_id": "A29",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि खाता खोलने के लिए कौन से दस्तावेज़ चाहिए?",
+  "question_en": "What documents are needed to open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "birth certificate",
+    "जन्म प्रमाणपत्र",
+    "जन्म प्रमाण पत्र",
+    "जन्माचा दाखला",
+    "जन्म दाखला"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A29.mr",
+  "group_id": "A29",
+  "language": "mr",
+  "question": "सुकन्या समृद्धी खाते उघडण्यासाठी कोणती कागदपत्रे लागतात?",
+  "question_en": "What documents are needed to open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "birth certificate",
+    "जन्म प्रमाणपत्र",
+    "जन्म प्रमाण पत्र",
+    "जन्माचा दाखला",
+    "जन्म दाखला"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A30.en",
+  "group_id": "A30",
+  "language": "en",
+  "question": "Where can I open a Sukanya Samriddhi account?",
+  "question_en": "Where can I open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "post office",
+    "डाकघर",
+    "टपाल",
+    "पोस्ट ऑफिस"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A30.hi",
+  "group_id": "A30",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि खाता कहां खोल सकते हैं?",
+  "question_en": "Where can I open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "post office",
+    "डाकघर",
+    "टपाल",
+    "पोस्ट ऑफिस"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A30.mr",
+  "group_id": "A30",
+  "language": "mr",
+  "question": "सुकन्या समृद्धी खाते कुठे उघडता येते?",
+  "question_en": "Where can I open a Sukanya Samriddhi account?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "ssy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "post office",
+    "डाकघर",
+    "टपाल",
+    "पोस्ट ऑफिस"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A31.en",
+  "group_id": "A31",
+  "language": "en",
+  "question": "What is the age requirement for Atal Pension Yojana?",
+  "question_en": "What is the age requirement for Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "18"
+   ],
+   [
+    "40"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A31.hi",
+  "group_id": "A31",
+  "language": "hi",
+  "question": "अटल पेंशन योजना के लिए आयु की शर्त क्या है?",
+  "question_en": "What is the age requirement for Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "18"
+   ],
+   [
+    "40"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A31.mr",
+  "group_id": "A31",
+  "language": "mr",
+  "question": "अटल पेन्शन योजनेसाठी वयाची अट काय आहे?",
+  "question_en": "What is the age requirement for Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "18"
+   ],
+   [
+    "40"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A32.en",
+  "group_id": "A32",
+  "language": "en",
+  "question": "How much pension does Atal Pension Yojana give?",
+  "question_en": "How much pension does Atal Pension Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1000"
+   ],
+   [
+    "5000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A32.hi",
+  "group_id": "A32",
+  "language": "hi",
+  "question": "अटल पेंशन योजना में कितनी पेंशन मिलती है?",
+  "question_en": "How much pension does Atal Pension Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1000"
+   ],
+   [
+    "5000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A32.mr",
+  "group_id": "A32",
+  "language": "mr",
+  "question": "अटल पेन्शन योजनेत किती पेन्शन मिळते?",
+  "question_en": "How much pension does Atal Pension Yojana give?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "1000"
+   ],
+   [
+    "5000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A33.en",
+  "group_id": "A33",
+  "language": "en",
+  "question": "What do I need to enrol in Atal Pension Yojana?",
+  "question_en": "What do I need to enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "mobile",
+    "मोबाइल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A33.hi",
+  "group_id": "A33",
+  "language": "hi",
+  "question": "अटल पेंशन योजना में नामांकन के लिए क्या चाहिए?",
+  "question_en": "What do I need to enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "mobile",
+    "मोबाइल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A33.mr",
+  "group_id": "A33",
+  "language": "mr",
+  "question": "अटल पेन्शन योजनेत नोंदणीसाठी काय लागते?",
+  "question_en": "What do I need to enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "mobile",
+    "मोबाइल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A34.en",
+  "group_id": "A34",
+  "language": "en",
+  "question": "How do I enrol in Atal Pension Yojana?",
+  "question_en": "How do I enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "bank",
+    "बैंक",
+    "बँक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A34.hi",
+  "group_id": "A34",
+  "language": "hi",
+  "question": "अटल पेंशन योजना में नामांकन कैसे करें?",
+  "question_en": "How do I enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "bank",
+    "बैंक",
+    "बँक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A34.mr",
+  "group_id": "A34",
+  "language": "mr",
+  "question": "अटल पेन्शन योजनेत नोंदणी कशी करायची?",
+  "question_en": "How do I enrol in Atal Pension Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "apy",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "bank",
+    "बैंक",
+    "बँक"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A35.en",
+  "group_id": "A35",
+  "language": "en",
+  "question": "Who can apply for a Mudra loan?",
+  "question_en": "Who can apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A35.hi",
+  "group_id": "A35",
+  "language": "hi",
+  "question": "मुद्रा ऋण के लिए कौन आवेदन कर सकता है?",
+  "question_en": "Who can apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A35.mr",
+  "group_id": "A35",
+  "language": "mr",
+  "question": "मुद्रा कर्जासाठी कोण अर्ज करू शकतो?",
+  "question_en": "Who can apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A36.en",
+  "group_id": "A36",
+  "language": "en",
+  "question": "What are the Mudra loan categories and amounts?",
+  "question_en": "What are the Mudra loan categories and amounts?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "50000"
+   ],
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A36.hi",
+  "group_id": "A36",
+  "language": "hi",
+  "question": "मुद्रा ऋण की श्रेणियां और राशि क्या हैं?",
+  "question_en": "What are the Mudra loan categories and amounts?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "50000"
+   ],
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A36.mr",
+  "group_id": "A36",
+  "language": "mr",
+  "question": "मुद्रा कर्जाच्या श्रेणी आणि रक्कम काय आहेत?",
+  "question_en": "What are the Mudra loan categories and amounts?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "50000"
+   ],
+   [
+    "5 lakh",
+    "5 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A37.en",
+  "group_id": "A37",
+  "language": "en",
+  "question": "What is the Tarun category loan limit under Mudra?",
+  "question_en": "What is the Tarun category loan limit under Mudra?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A37.hi",
+  "group_id": "A37",
+  "language": "hi",
+  "question": "मुद्रा में तरुण श्रेणी की ऋण सीमा क्या है?",
+  "question_en": "What is the Tarun category loan limit under Mudra?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A37.mr",
+  "group_id": "A37",
+  "language": "mr",
+  "question": "मुद्रामध्ये तरुण श्रेणीची कर्ज मर्यादा किती आहे?",
+  "question_en": "What is the Tarun category loan limit under Mudra?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "10 lakh",
+    "10 लाख"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A38.en",
+  "group_id": "A38",
+  "language": "en",
+  "question": "What documents are needed for a Mudra loan?",
+  "question_en": "What documents are needed for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "address",
+    "पते",
+    "पत्त्याचा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A38.hi",
+  "group_id": "A38",
+  "language": "hi",
+  "question": "मुद्रा ऋण के लिए कौन से दस्तावेज़ चाहिए?",
+  "question_en": "What documents are needed for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "address",
+    "पते",
+    "पत्त्याचा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A38.mr",
+  "group_id": "A38",
+  "language": "mr",
+  "question": "मुद्रा कर्जासाठी कोणती कागदपत्रे लागतात?",
+  "question_en": "What documents are needed for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "address",
+    "पते",
+    "पत्त्याचा"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A39.en",
+  "group_id": "A39",
+  "language": "en",
+  "question": "Where can I apply for a Mudra loan?",
+  "question_en": "Where can I apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "udyamimitra",
+    "उद्यमिमित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A39.hi",
+  "group_id": "A39",
+  "language": "hi",
+  "question": "मुद्रा ऋण के लिए आवेदन कहां करें?",
+  "question_en": "Where can I apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "udyamimitra",
+    "उद्यमिमित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A39.mr",
+  "group_id": "A39",
+  "language": "mr",
+  "question": "मुद्रा कर्जासाठी अर्ज कुठे करायचा?",
+  "question_en": "Where can I apply for a Mudra loan?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "mudra",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "udyamimitra",
+    "उद्यमिमित्र"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A40.en",
+  "group_id": "A40",
+  "language": "en",
+  "question": "Who can enrol in the PM Fasal Bima Yojana?",
+  "question_en": "Who can enrol in the PM Fasal Bima Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "notified",
+    "अधिसूचित"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A40.hi",
+  "group_id": "A40",
+  "language": "hi",
+  "question": "प्रधानमंत्री फसल बीमा योजना में कौन नामांकन कर सकता है?",
+  "question_en": "Who can enrol in the PM Fasal Bima Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "notified",
+    "अधिसूचित"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A40.mr",
+  "group_id": "A40",
+  "language": "mr",
+  "question": "प्रधानमंत्री पीक विमा योजनेत कोण नोंदणी करू शकतो?",
+  "question_en": "Who can enrol in the PM Fasal Bima Yojana?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "notified",
+    "अधिसूचित"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A41.en",
+  "group_id": "A41",
+  "language": "en",
+  "question": "What premium do farmers pay for kharif crops under PMFBY?",
+  "question_en": "What premium do farmers pay for kharif crops under PMFBY?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2 percent",
+    "2%",
+    "2 प्रतिशत",
+    "2 टक्के"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A41.hi",
+  "group_id": "A41",
+  "language": "hi",
+  "question": "पीएमएफबीवाई में खरीफ फसलों के लिए किसान कितना प्रीमियम देते हैं?",
+  "question_en": "What premium do farmers pay for kharif crops under PMFBY?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2 percent",
+    "2%",
+    "2 प्रतिशत",
+    "2 टक्के"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A41.mr",
+  "group_id": "A41",
+  "language": "mr",
+  "question": "पीक विमा योजनेत खरीप पिकांसाठी शेतकऱ्याला किती प्रीमियम भरावा लागतो?",
+  "question_en": "What premium do farmers pay for kharif crops under PMFBY?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2 percent",
+    "2%",
+    "2 प्रतिशत",
+    "2 टक्के"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A41.mr_roman",
+  "group_id": "A41",
+  "language": "mr_roman",
+  "question": "pik vima yojanet kharip pikansathi shetkaryala kiti premium bharava lagto?",
+  "question_en": "What premium do farmers pay for kharif crops under PMFBY?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "2 percent",
+    "2%",
+    "2 प्रतिशत",
+    "2 टक्के"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A42.en",
+  "group_id": "A42",
+  "language": "en",
+  "question": "What documents are required for crop insurance enrolment?",
+  "question_en": "What documents are required for crop insurance enrolment?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A42.hi",
+  "group_id": "A42",
+  "language": "hi",
+  "question": "फसल बीमा नामांकन के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+  "question_en": "What documents are required for crop insurance enrolment?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A42.mr",
+  "group_id": "A42",
+  "language": "mr",
+  "question": "पीक विमा नोंदणीसाठी कोणती कागदपत्रे आवश्यक आहेत?",
+  "question_en": "What documents are required for crop insurance enrolment?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A43.en",
+  "group_id": "A43",
+  "language": "en",
+  "question": "How can a farmer enrol for crop insurance?",
+  "question_en": "How can a farmer enrol for crop insurance?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "portal",
+    "पोर्टल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A43.hi",
+  "group_id": "A43",
+  "language": "hi",
+  "question": "किसान फसल बीमा के लिए नामांकन कैसे करे?",
+  "question_en": "How can a farmer enrol for crop insurance?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "portal",
+    "पोर्टल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A43.mr",
+  "group_id": "A43",
+  "language": "mr",
+  "question": "शेतकरी पीक विम्यासाठी नोंदणी कशी करू शकतो?",
+  "question_en": "How can a farmer enrol for crop insurance?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "pmfby",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "portal",
+    "पोर्टल"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A44.en",
+  "group_id": "A44",
+  "language": "en",
+  "question": "Who is eligible for Namo Shetkari Mahasanman Nidhi?",
+  "question_en": "Who is eligible for Namo Shetkari Mahasanman Nidhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A44.hi",
+  "group_id": "A44",
+  "language": "hi",
+  "question": "नमो शेतकरी महासन्मान निधि के लिए कौन पात्र है?",
+  "question_en": "Who is eligible for Namo Shetkari Mahasanman Nidhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A44.mr",
+  "group_id": "A44",
+  "language": "mr",
+  "question": "नमो शेतकरी महासन्मान निधीसाठी कोण पात्र आहे?",
+  "question_en": "Who is eligible for Namo Shetkari Mahasanman Nidhi?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "eligibility"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A45.en",
+  "group_id": "A45",
+  "language": "en",
+  "question": "How much additional money does Namo Shetkari give per year?",
+  "question_en": "How much additional money does Namo Shetkari give per year?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A45.hi",
+  "group_id": "A45",
+  "language": "hi",
+  "question": "नमो शेतकरी योजना में प्रति वर्ष कितनी अतिरिक्त राशि मिलती है?",
+  "question_en": "How much additional money does Namo Shetkari give per year?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A45.mr",
+  "group_id": "A45",
+  "language": "mr",
+  "question": "नमो शेतकरी योजनेत दरवर्षी किती अतिरिक्त रक्कम मिळते?",
+  "question_en": "How much additional money does Namo Shetkari give per year?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A45.mr_roman",
+  "group_id": "A45",
+  "language": "mr_roman",
+  "question": "namo shetkari yojanet daravarshi kiti rakkam milte?",
+  "question_en": "How much additional money does Namo Shetkari give per year?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "benefits"
+  },
+  "key_facts": [
+   [
+    "6000"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A46.en",
+  "group_id": "A46",
+  "language": "en",
+  "question": "Which documents does Namo Shetkari use?",
+  "question_en": "Which documents does Namo Shetkari use?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A46.hi",
+  "group_id": "A46",
+  "language": "hi",
+  "question": "नमो शेतकरी योजना में कौन से दस्तावेज़ उपयोग होते हैं?",
+  "question_en": "Which documents does Namo Shetkari use?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A46.mr",
+  "group_id": "A46",
+  "language": "mr",
+  "question": "नमो शेतकरी योजनेत कोणती कागदपत्रे वापरली जातात?",
+  "question_en": "Which documents does Namo Shetkari use?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "documents"
+  },
+  "key_facts": [
+   [
+    "aadhaar",
+    "आधार"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A47.en",
+  "group_id": "A47",
+  "language": "en",
+  "question": "How do I apply for Namo Shetkari?",
+  "question_en": "How do I apply for Namo Shetkari?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A47.hi",
+  "group_id": "A47",
+  "language": "hi",
+  "question": "नमो शेतकरी के लिए आवेदन कैसे करें?",
+  "question_en": "How do I apply for Namo Shetkari?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "A47.mr",
+  "group_id": "A47",
+  "language": "mr",
+  "question": "नमो शेतकरीसाठी अर्ज कसा करायचा?",
+  "question_en": "How do I apply for Namo Shetkari?",
+  "answerable": true,
+  "gold": {
+   "scheme_id": "namo_shetkari",
+   "section": "how_to_apply"
+  },
+  "key_facts": [
+   [
+    "pm-kisan",
+    "पीएम-किसान"
+   ]
+  ],
+  "kind": "answerable",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U01.en",
+  "group_id": "U01",
+  "language": "en",
+  "question": "What is the capital of France?",
+  "question_en": "What is the capital of France?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U01.hi",
+  "group_id": "U01",
+  "language": "hi",
+  "question": "फ्रांस की राजधानी क्या है?",
+  "question_en": "What is the capital of France?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U01.mr",
+  "group_id": "U01",
+  "language": "mr",
+  "question": "फ्रान्सची राजधानी कोणती आहे?",
+  "question_en": "What is the capital of France?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U02.en",
+  "group_id": "U02",
+  "language": "en",
+  "question": "What is the benefit amount under the PM Vishwakarma scheme?",
+  "question_en": "What is the benefit amount under the PM Vishwakarma scheme?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U02.hi",
+  "group_id": "U02",
+  "language": "hi",
+  "question": "पीएम विश्वकर्मा योजना में कितनी राशि मिलती है?",
+  "question_en": "What is the benefit amount under the PM Vishwakarma scheme?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U02.mr",
+  "group_id": "U02",
+  "language": "mr",
+  "question": "पीएम विश्वकर्मा योजनेत किती रक्कम मिळते?",
+  "question_en": "What is the benefit amount under the PM Vishwakarma scheme?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U02.mr_roman",
+  "group_id": "U02",
+  "language": "mr_roman",
+  "question": "pm vishwakarma yojanet kiti rakkam milte?",
+  "question_en": "What is the benefit amount under the PM Vishwakarma scheme?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U03.en",
+  "group_id": "U03",
+  "language": "en",
+  "question": "How do I apply for Ladli Behna Yojana of Madhya Pradesh?",
+  "question_en": "How do I apply for Ladli Behna Yojana of Madhya Pradesh?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U03.hi",
+  "group_id": "U03",
+  "language": "hi",
+  "question": "मध्य प्रदेश की लाडली बहना योजना के लिए आवेदन कैसे करें?",
+  "question_en": "How do I apply for Ladli Behna Yojana of Madhya Pradesh?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U03.mr",
+  "group_id": "U03",
+  "language": "mr",
+  "question": "मध्य प्रदेशच्या लाडली बहना योजनेसाठी अर्ज कसा करायचा?",
+  "question_en": "How do I apply for Ladli Behna Yojana of Madhya Pradesh?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U04.en",
+  "group_id": "U04",
+  "language": "en",
+  "question": "What is the last date to apply for PM Kisan in 2027?",
+  "question_en": "What is the last date to apply for PM Kisan in 2027?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U04.hi",
+  "group_id": "U04",
+  "language": "hi",
+  "question": "2027 में पीएम किसान के लिए आवेदन की अंतिम तारीख क्या है?",
+  "question_en": "What is the last date to apply for PM Kisan in 2027?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U04.mr",
+  "group_id": "U04",
+  "language": "mr",
+  "question": "२०२७ मध्ये पीएम किसानसाठी अर्ज करण्याची शेवटची तारीख कोणती आहे?",
+  "question_en": "What is the last date to apply for PM Kisan in 2027?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U05.en",
+  "group_id": "U05",
+  "language": "en",
+  "question": "What is the helpline phone number of Ladki Bahin Yojana?",
+  "question_en": "What is the helpline phone number of Ladki Bahin Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U05.hi",
+  "group_id": "U05",
+  "language": "hi",
+  "question": "लाडकी बहीण योजना का हेल्पलाइन फ़ोन नंबर क्या है?",
+  "question_en": "What is the helpline phone number of Ladki Bahin Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U05.mr",
+  "group_id": "U05",
+  "language": "mr",
+  "question": "लाडकी बहीण योजनेचा हेल्पलाइन फोन नंबर काय आहे?",
+  "question_en": "What is the helpline phone number of Ladki Bahin Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U05.mr_roman",
+  "group_id": "U05",
+  "language": "mr_roman",
+  "question": "ladki bahin yojanecha helpline number kay ahe?",
+  "question_en": "What is the helpline phone number of Ladki Bahin Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U06.en",
+  "group_id": "U06",
+  "language": "en",
+  "question": "What is the current interest rate of Sukanya Samriddhi?",
+  "question_en": "What is the current interest rate of Sukanya Samriddhi?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U06.hi",
+  "group_id": "U06",
+  "language": "hi",
+  "question": "सुकन्या समृद्धि की वर्तमान ब्याज दर कितनी है?",
+  "question_en": "What is the current interest rate of Sukanya Samriddhi?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U06.mr",
+  "group_id": "U06",
+  "language": "mr",
+  "question": "सुकन्या समृद्धीचा सध्याचा व्याजदर किती आहे?",
+  "question_en": "What is the current interest rate of Sukanya Samriddhi?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U07.en",
+  "group_id": "U07",
+  "language": "en",
+  "question": "How much monthly contribution is needed for a 5000 rupee pension at age 30 in Atal Pension Yojana?",
+  "question_en": "How much monthly contribution is needed for a 5000 rupee pension at age 30 in Atal Pension Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U07.hi",
+  "group_id": "U07",
+  "language": "hi",
+  "question": "अटल पेंशन योजना में 30 वर्ष की आयु में ₹5000 पेंशन के लिए कितना मासिक अंशदान देना होगा?",
+  "question_en": "How much monthly contribution is needed for a 5000 rupee pension at age 30 in Atal Pension Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U07.mr",
+  "group_id": "U07",
+  "language": "mr",
+  "question": "अटल पेन्शन योजनेत ३० वर्षे वयात ₹५००० पेन्शनसाठी दरमहा किती अंशदान भरावे लागेल?",
+  "question_en": "How much monthly contribution is needed for a 5000 rupee pension at age 30 in Atal Pension Yojana?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U08.en",
+  "group_id": "U08",
+  "language": "en",
+  "question": "Who won the cricket world cup in 2011?",
+  "question_en": "Who won the cricket world cup in 2011?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U08.hi",
+  "group_id": "U08",
+  "language": "hi",
+  "question": "2011 का क्रिकेट विश्व कप किसने जीता?",
+  "question_en": "Who won the cricket world cup in 2011?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U08.mr",
+  "group_id": "U08",
+  "language": "mr",
+  "question": "२०११ चा क्रिकेट विश्वचषक कोणी जिंकला?",
+  "question_en": "Who won the cricket world cup in 2011?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "off_topic",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U09.en",
+  "group_id": "U09",
+  "language": "en",
+  "question": "Which hospitals in Palghar accept Ayushman cards?",
+  "question_en": "Which hospitals in Palghar accept Ayushman cards?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U09.hi",
+  "group_id": "U09",
+  "language": "hi",
+  "question": "पालघर में किन अस्पतालों में आयुष्मान कार्ड चलता है?",
+  "question_en": "Which hospitals in Palghar accept Ayushman cards?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U09.mr",
+  "group_id": "U09",
+  "language": "mr",
+  "question": "पालघरमधील कोणत्या रुग्णालयांत आयुष्मान कार्ड चालते?",
+  "question_en": "Which hospitals in Palghar accept Ayushman cards?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U10.en",
+  "group_id": "U10",
+  "language": "en",
+  "question": "What is the interest rate on Mudra loans?",
+  "question_en": "What is the interest rate on Mudra loans?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U10.hi",
+  "group_id": "U10",
+  "language": "hi",
+  "question": "मुद्रा ऋण की ब्याज दर क्या है?",
+  "question_en": "What is the interest rate on Mudra loans?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U10.mr",
+  "group_id": "U10",
+  "language": "mr",
+  "question": "मुद्रा कर्जाचा व्याजदर किती आहे?",
+  "question_en": "What is the interest rate on Mudra loans?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "fact_missing",
+  "split": "dev",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U11.en",
+  "group_id": "U11",
+  "language": "en",
+  "question": "How much subsidy does PMAY-Urban give on home loan interest?",
+  "question_en": "How much subsidy does PMAY-Urban give on home loan interest?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U11.hi",
+  "group_id": "U11",
+  "language": "hi",
+  "question": "पीएमएवाई-शहरी में होम लोन ब्याज पर कितनी सब्सिडी मिलती है?",
+  "question_en": "How much subsidy does PMAY-Urban give on home loan interest?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ },
+ {
+  "id": "U11.mr",
+  "group_id": "U11",
+  "language": "mr",
+  "question": "पीएमएवाय-शहरी मध्ये गृहकर्जाच्या व्याजावर किती अनुदान मिळते?",
+  "question_en": "How much subsidy does PMAY-Urban give on home loan interest?",
+  "answerable": false,
+  "gold": null,
+  "key_facts": [],
+  "kind": "scheme_not_indexed",
+  "split": "test",
+  "author": "ai_assistant",
+  "verification": {
+   "status": "unverified",
+   "reviewer": null,
+   "notes": ""
+  }
+ }
+]

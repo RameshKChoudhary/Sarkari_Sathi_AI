@@ -1,0 +1,632 @@
+{
+ "groups": [
+  {
+   "id": "scheme:pm_kisan",
+   "triggers": [
+    "pm kisan",
+    "pm-kisan",
+    "pmkisan",
+    "पीएम-किसान",
+    "पीएम किसान",
+    "पंतप्रधान किसान",
+    "प्रधानमंत्री किसान",
+    "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "पीएम-किसान (प्रधानमंत्री किसान सम्मान निधि)",
+    "पीएम-किसान (प्रधानमंत्री किसान सन्मान निधी)"
+   ],
+   "terms": [
+    "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "पीएम-किसान (प्रधानमंत्री किसान सम्मान निधि)",
+    "पीएम-किसान (प्रधानमंत्री किसान सन्मान निधी)"
+   ],
+   "en": [
+    "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)"
+   ]
+  },
+  {
+   "id": "scheme:pmjay",
+   "triggers": [
+    "ayushman bharat",
+    "ayushman",
+    "pmjay",
+    "pm-jay",
+    "आयुष्मान भारत",
+    "आयुष्मान",
+    "Ayushman Bharat PM-JAY",
+    "आयुष्मान भारत पीएम-जेएवाई",
+    "आयुष्मान भारत पीएम-जेएवाय"
+   ],
+   "terms": [
+    "Ayushman Bharat PM-JAY",
+    "आयुष्मान भारत पीएम-जेएवाई",
+    "आयुष्मान भारत पीएम-जेएवाय"
+   ],
+   "en": [
+    "Ayushman Bharat PM-JAY"
+   ]
+  },
+  {
+   "id": "scheme:ladki_bahin",
+   "triggers": [
+    "ladki bahin",
+    "ladki bahini",
+    "ladaki bahin",
+    "majhi ladki bahin",
+    "लाडकी बहीण",
+    "लाडकी बहिण",
+    "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "मुख्यमंत्री माझी लाडकी बहीण योजना"
+   ],
+   "terms": [
+    "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "मुख्यमंत्री माझी लाडकी बहीण योजना",
+    "मुख्यमंत्री माझी लाडकी बहीण योजना"
+   ],
+   "en": [
+    "Mukhyamantri Majhi Ladki Bahin Yojana"
+   ]
+  },
+  {
+   "id": "scheme:pmayg",
+   "triggers": [
+    "awas yojana",
+    "pmay",
+    "pmay-g",
+    "pmayg",
+    "pradhan mantri awas",
+    "awas plus",
+    "आवास योजना",
+    "आवास प्लस",
+    "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी)",
+    "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाय-जी)"
+   ],
+   "terms": [
+    "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी)",
+    "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाय-जी)"
+   ],
+   "en": [
+    "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)"
+   ]
+  },
+  {
+   "id": "scheme:pmuy",
+   "triggers": [
+    "ujjwala",
+    "ujwala",
+    "pmuy",
+    "उज्ज्वला",
+    "उज्वला",
+    "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाई)",
+    "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाय)"
+   ],
+   "terms": [
+    "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाई)",
+    "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाय)"
+   ],
+   "en": [
+    "Pradhan Mantri Ujjwala Yojana (PMUY)"
+   ]
+  },
+  {
+   "id": "scheme:ssy",
+   "triggers": [
+    "sukanya",
+    "sukanya samriddhi",
+    "ssy",
+    "सुकन्या",
+    "Sukanya Samriddhi Yojana (SSY)",
+    "सुकन्या समृद्धि योजना (एसएसवाई)",
+    "सुकन्या समृद्धी योजना (एसएसवाय)"
+   ],
+   "terms": [
+    "Sukanya Samriddhi Yojana (SSY)",
+    "सुकन्या समृद्धि योजना (एसएसवाई)",
+    "सुकन्या समृद्धी योजना (एसएसवाय)"
+   ],
+   "en": [
+    "Sukanya Samriddhi Yojana (SSY)"
+   ]
+  },
+  {
+   "id": "scheme:apy",
+   "triggers": [
+    "atal pension",
+    "apy",
+    "अटल पेंशन",
+    "अटल पेन्शन",
+    "Atal Pension Yojana (APY)",
+    "अटल पेंशन योजना (एपीवाई)",
+    "अटल पेन्शन योजना (एपीवाय)"
+   ],
+   "terms": [
+    "Atal Pension Yojana (APY)",
+    "अटल पेंशन योजना (एपीवाई)",
+    "अटल पेन्शन योजना (एपीवाय)"
+   ],
+   "en": [
+    "Atal Pension Yojana (APY)"
+   ]
+  },
+  {
+   "id": "scheme:mudra",
+   "triggers": [
+    "mudra",
+    "pmmy",
+    "मुद्रा",
+    "Pradhan Mantri Mudra Yojana (PMMY)",
+    "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई)",
+    "प्रधानमंत्री मुद्रा योजना (पीएमएमवाय)"
+   ],
+   "terms": [
+    "Pradhan Mantri Mudra Yojana (PMMY)",
+    "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई)",
+    "प्रधानमंत्री मुद्रा योजना (पीएमएमवाय)"
+   ],
+   "en": [
+    "Pradhan Mantri Mudra Yojana (PMMY)"
+   ]
+  },
+  {
+   "id": "scheme:pmfby",
+   "triggers": [
+    "pmfby",
+    "fasal bima",
+    "pik vima",
+    "crop insurance",
+    "फसल बीमा",
+    "पीक विमा",
+    "पीएमएफबीवाई",
+    "पीएमएफबीवाय",
+    "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)",
+    "प्रधानमंत्री पीक विमा योजना (पीएमएफबीवाय)"
+   ],
+   "terms": [
+    "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)",
+    "प्रधानमंत्री पीक विमा योजना (पीएमएफबीवाय)"
+   ],
+   "en": [
+    "Pradhan Mantri Fasal Bima Yojana (PMFBY)"
+   ]
+  },
+  {
+   "id": "scheme:namo_shetkari",
+   "triggers": [
+    "namo shetkari",
+    "namo",
+    "नमो शेतकरी",
+    "नमो",
+    "Namo Shetkari Mahasanman Nidhi Yojana",
+    "नमो शेतकरी महासन्मान निधि योजना",
+    "नमो शेतकरी महासन्मान निधी योजना"
+   ],
+   "terms": [
+    "Namo Shetkari Mahasanman Nidhi Yojana",
+    "नमो शेतकरी महासन्मान निधि योजना",
+    "नमो शेतकरी महासन्मान निधी योजना"
+   ],
+   "en": [
+    "Namo Shetkari Mahasanman Nidhi Yojana"
+   ]
+  },
+  {
+   "id": "concept:eligibility",
+   "triggers": [
+    "eligible",
+    "eligibility",
+    "who can",
+    "qualify",
+    "qualifies",
+    "पात्र",
+    "पात्रता",
+    "patra",
+    "patrata",
+    "pratra",
+    "paatra",
+    "kon patra"
+   ],
+   "terms": [
+    "eligible",
+    "eligibility",
+    "पात्र",
+    "पात्रता"
+   ],
+   "en": [
+    "eligible",
+    "eligibility"
+   ]
+  },
+  {
+   "id": "concept:benefits",
+   "triggers": [
+    "benefit",
+    "benefits",
+    "how much",
+    "amount",
+    "money",
+    "get per",
+    "लाभ",
+    "कितना",
+    "कितने",
+    "कितनी",
+    "किती",
+    "फायदा",
+    "फायदे",
+    "labh",
+    "kiti milte",
+    "rakkam",
+    "paise",
+    "kitna"
+   ],
+   "terms": [
+    "benefits",
+    "amount",
+    "लाभ",
+    "राशि",
+    "रक्कम"
+   ],
+   "en": [
+    "benefits",
+    "amount",
+    "per",
+    "year",
+    "month"
+   ]
+  },
+  {
+   "id": "concept:documents",
+   "triggers": [
+    "document",
+    "documents",
+    "papers",
+    "required papers",
+    "दस्तावेज",
+    "कागदपत्र",
+    "कागद",
+    "kagadpatre",
+    "kagadpatra",
+    "dastavej",
+    "dastavez",
+    "kaagadpatre"
+   ],
+   "terms": [
+    "documents",
+    "required",
+    "आवश्यक",
+    "दस्तावेज",
+    "कागदपत्रे"
+   ],
+   "en": [
+    "documents",
+    "required"
+   ]
+  },
+  {
+   "id": "concept:apply",
+   "triggers": [
+    "apply",
+    "application",
+    "register",
+    "registration",
+    "enrol",
+    "enroll",
+    "आवेदन",
+    "अर्ज",
+    "पंजीकरण",
+    "नोंदणी",
+    "nondani",
+    "arj",
+    "avedan",
+    "karaycha",
+    "bharaycha",
+    "kaise",
+    "kasa",
+    "kase",
+    "form"
+   ],
+   "terms": [
+    "apply",
+    "application",
+    "register",
+    "आवेदन",
+    "अर्ज",
+    "पंजीकरण",
+    "नोंदणी"
+   ],
+   "en": [
+    "apply",
+    "application",
+    "register"
+   ]
+  },
+  {
+   "id": "concept:age",
+   "triggers": [
+    "age",
+    "years old",
+    "वय",
+    "आयु",
+    "उम्र",
+    "vay",
+    "umar"
+   ],
+   "terms": [
+    "age",
+    "years",
+    "आयु",
+    "वर्ष",
+    "वर्षे",
+    "वय"
+   ],
+   "en": [
+    "age",
+    "years"
+   ]
+  },
+  {
+   "id": "concept:income",
+   "triggers": [
+    "income",
+    "आय",
+    "उत्पन्न",
+    "आमदनी",
+    "utpanna",
+    "utpann"
+   ],
+   "terms": [
+    "income",
+    "उत्पन्न",
+    "आय"
+   ],
+   "en": [
+    "income"
+   ]
+  },
+  {
+   "id": "concept:bank",
+   "triggers": [
+    "bank",
+    "बैंक",
+    "बँक",
+    "khate",
+    "khata",
+    "खाता",
+    "खाते"
+   ],
+   "terms": [
+    "bank",
+    "account",
+    "बैंक",
+    "बँक",
+    "खाता",
+    "खाते"
+   ],
+   "en": [
+    "bank",
+    "account"
+   ]
+  },
+  {
+   "id": "concept:instalment",
+   "triggers": [
+    "instalment",
+    "installment",
+    "instalments",
+    "किस्त",
+    "हप्ता",
+    "हप्त्या",
+    "hapta",
+    "kist"
+   ],
+   "terms": [
+    "instalments",
+    "किस्त",
+    "हप्त्यांमध्ये"
+   ],
+   "en": [
+    "instalments"
+   ]
+  },
+  {
+   "id": "concept:online",
+   "triggers": [
+    "online",
+    "portal",
+    "app",
+    "ऑनलाइन",
+    "पोर्टल",
+    "ॲप",
+    "ऐप"
+   ],
+   "terms": [
+    "online",
+    "portal",
+    "ऑनलाइन",
+    "पोर्टल"
+   ],
+   "en": [
+    "online",
+    "portal",
+    "app"
+   ]
+  },
+  {
+   "id": "concept:pension",
+   "triggers": [
+    "pension",
+    "पेंशन",
+    "पेन्शन",
+    "निवृत्तिवेतन"
+   ],
+   "terms": [
+    "pension",
+    "पेंशन",
+    "पेन्शन"
+   ],
+   "en": [
+    "pension"
+   ]
+  },
+  {
+   "id": "concept:loan",
+   "triggers": [
+    "loan",
+    "कर्ज",
+    "ऋण",
+    "karj",
+    "loan"
+   ],
+   "terms": [
+    "loan",
+    "collateral-free",
+    "कर्ज",
+    "ऋण"
+   ],
+   "en": [
+    "loan",
+    "collateral-free"
+   ]
+  },
+  {
+   "id": "concept:insurance",
+   "triggers": [
+    "insurance",
+    "insured",
+    "premium",
+    "बीमा",
+    "विमा",
+    "प्रीमियम",
+    "bima",
+    "vima"
+   ],
+   "terms": [
+    "insurance",
+    "premium",
+    "बीमा",
+    "विमा",
+    "प्रीमियम"
+   ],
+   "en": [
+    "insurance",
+    "premium"
+   ]
+  },
+  {
+   "id": "concept:girl",
+   "triggers": [
+    "girl",
+    "daughter",
+    "बेटी",
+    "बालिका",
+    "मुलगी",
+    "mulgi",
+    "beti"
+   ],
+   "terms": [
+    "girl",
+    "child",
+    "बालिका",
+    "मुलगी"
+   ],
+   "en": [
+    "girl",
+    "child"
+   ]
+  },
+  {
+   "id": "concept:farmer",
+   "triggers": [
+    "farmer",
+    "farmers",
+    "किसान",
+    "शेतकरी",
+    "shetkari",
+    "kisan"
+   ],
+   "terms": [
+    "farmer",
+    "farmers",
+    "किसान",
+    "शेतकरी"
+   ],
+   "en": [
+    "farmer",
+    "farmers"
+   ]
+  },
+  {
+   "id": "concept:women",
+   "triggers": [
+    "woman",
+    "women",
+    "महिला",
+    "बहीण",
+    "बहिण",
+    "mahila",
+    "bahin",
+    "bahini"
+   ],
+   "terms": [
+    "women",
+    "woman",
+    "महिला",
+    "बहीण"
+   ],
+   "en": [
+    "women",
+    "woman"
+   ]
+  },
+  {
+   "id": "concept:house",
+   "triggers": [
+    "house",
+    "housing",
+    "home",
+    "आवास",
+    "घर",
+    "gharkul",
+    "ghar"
+   ],
+   "terms": [
+    "house",
+    "pucca",
+    "housing",
+    "आवास",
+    "घर"
+   ],
+   "en": [
+    "house",
+    "pucca",
+    "housing"
+   ]
+  },
+  {
+   "id": "concept:lpg",
+   "triggers": [
+    "gas",
+    "lpg",
+    "cylinder",
+    "गैस",
+    "सिलेंडर",
+    "सिलिंडर"
+   ],
+   "terms": [
+    "LPG",
+    "connection",
+    "गैस",
+    "कनेक्शन"
+   ],
+   "en": [
+    "LPG",
+    "gas",
+    "connection"
+   ]
+  }
+ ]
+}

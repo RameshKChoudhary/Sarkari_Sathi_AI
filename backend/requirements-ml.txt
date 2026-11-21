@@ -1,0 +1,6 @@
+# Optional: multilingual embedding models and the cross-encoder reranker.
+# Needed for BGE-M3 / multilingual-E5 / LaBSE and bge-reranker-v2-m3.
+# Models are downloaded from Hugging Face on first use (BGE-M3 is ~2.2 GB).
+# CPU-only torch keeps the install small:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3.0

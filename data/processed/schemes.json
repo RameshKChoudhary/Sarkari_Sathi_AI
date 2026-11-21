@@ -1,0 +1,242 @@
+[
+  {
+    "scheme_id": "apy",
+    "names": {
+      "en": "Atal Pension Yojana (APY)",
+      "hi": "अटल पेंशन योजना (एपीवाई)",
+      "mr": "अटल पेन्शन योजना (एपीवाय)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "pmjay",
+    "names": {
+      "en": "Ayushman Bharat PM-JAY",
+      "hi": "आयुष्मान भारत पीएम-जेएवाई",
+      "mr": "आयुष्मान भारत पीएम-जेएवाय"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://pmjay.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "ladki_bahin",
+    "names": {
+      "en": "Mukhyamantri Majhi Ladki Bahin Yojana",
+      "hi": "मुख्यमंत्री माझी लाडकी बहीण योजना",
+      "mr": "मुख्यमंत्री माझी लाडकी बहीण योजना"
+    },
+    "level": "state",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://ladakibahin.maharashtra.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "namo_shetkari",
+    "names": {
+      "en": "Namo Shetkari Mahasanman Nidhi Yojana",
+      "hi": "नमो शेतकरी महासन्मान निधि योजना",
+      "mr": "नमो शेतकरी महासन्मान निधी योजना"
+    },
+    "level": "state",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://krishi.maharashtra.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "pm_kisan",
+    "names": {
+      "en": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "hi": "पीएम-किसान (प्रधानमंत्री किसान सम्मान निधि)",
+      "mr": "पीएम-किसान (प्रधानमंत्री किसान सन्मान निधी)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://pmkisan.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "pmayg",
+    "names": {
+      "en": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+      "hi": "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी)",
+      "mr": "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाय-जी)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://pmayg.nic.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "pmfby",
+    "names": {
+      "en": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "hi": "प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)",
+      "mr": "प्रधानमंत्री पीक विमा योजना (पीएमएफबीवाय)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://pmfby.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "mudra",
+    "names": {
+      "en": "Pradhan Mantri Mudra Yojana (PMMY)",
+      "hi": "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई)",
+      "mr": "प्रधानमंत्री मुद्रा योजना (पीएमएमवाय)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://www.mudra.org.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "pmuy",
+    "names": {
+      "en": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "hi": "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाई)",
+      "mr": "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाय)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://www.pmuy.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  },
+  {
+    "scheme_id": "ssy",
+    "names": {
+      "en": "Sukanya Samriddhi Yojana (SSY)",
+      "hi": "सुकन्या समृद्धि योजना (एसएसवाई)",
+      "mr": "सुकन्या समृद्धी योजना (एसएसवाय)"
+    },
+    "level": "central",
+    "languages": [
+      "en",
+      "hi",
+      "mr"
+    ],
+    "sections": [
+      "benefits",
+      "documents",
+      "eligibility",
+      "how_to_apply"
+    ],
+    "official_url": "https://www.indiapost.gov.in/",
+    "data_status": "sample_fixture",
+    "publication_date": null,
+    "n_chunks": 15
+  }
+]
